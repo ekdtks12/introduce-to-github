@@ -8,6 +8,7 @@
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
+_CHANGE README.md File yourself_
 
 <!-- 
   <<< Author notes: Start of the course >>> 
